@@ -1,28 +1,36 @@
-# Netflix-clone
-Netflix UI Clone using HTML &amp; CSS
-🎬 Netflix Clone (HTML & CSS)
-A responsive Netflix homepage UI clone built using pure HTML5 and CSS3.
-This project recreates the visual layout and design of Netflix including the hero section, movie rows, hover effects, and dark theme styling.
+# 🎬 Netflix Clone
 
-🚀 Features
-🎥 Hero banner section
-🎞 Movie category rows
-🔥 Hover zoom animation on movie cards
-📌 Sticky navigation bar
-🎨 Custom favicon
-🌙 Netflix-inspired dark theme
-📱 Responsive design
+A responsive Netflix homepage UI clone built using **HTML and CSS**.
+This project recreates the visual layout and design of Netflix, including the hero section, movie rows, hover effects, and dark theme styling.
 
-🛠 Technologies Used
+---
 
-HTML5
-CSS3
-Flexbox
-Grid
-Media Queries
-Transitions & Hover Effects
+## 🚀 Features
 
-📂 Project Structure
+- Hero banner section
+- Movie category rows
+- Hover zoom animation on movie cards
+- Sticky navigation bar
+- Custom favicon
+- Netflix-inspired dark theme
+- Responsive design
+
+---
+
+## 🛠 Technologies Used
+
+- HTML
+- CSS
+  - Flexbox
+  - Grid
+  - Media Queries
+  - Transitions & Hover Effects
+
+---
+
+## 📂 Project Structure
+
+```
 netflix-clone/
 │
 ├── index.html
@@ -32,20 +40,34 @@ netflix-clone/
 │   ├── images/
 │   └── videos/
 └── README.md
+```
 
-▶️ How to Run
-Download or clone the repository.
-Open the folder.
-Double-click index.html.
+---
+
+## ▶️ How to Run
+
+1. Download or clone the repository
+2. Open the project folder
+3. Open `index.html` in your browser
+
 No installation required.
 
-🎯 Purpose
-This project was created for learning and practicing frontend development skills and UI design.
+---
 
-⚠️ Disclaimer
-This project is created for educational purposes only.
+## 🎯 Purpose
+
+This project was created for learning and practicing frontend development and UI design.
+
+---
+
+## ⚠️ Disclaimer
+
+This project is created for educational purposes only.  
 It is not affiliated with or endorsed by Netflix.
 
-👩‍💻 Author
-Pranali Shinde
+---
+
+## 👩‍💻 Author
+
+**Pranali Shinde**  
 2nd Year Engineering Student
